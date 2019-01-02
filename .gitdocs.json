@@ -1,0 +1,14 @@
+{
+  "name": "cozy-docs",
+  "root": "docs/",
+  "palette": {
+    "primary": {
+      "dark": "#0367ee",
+      "main": "#297ef2",
+      "light": "#86b4f3",
+      "lighter": "#e3eaf2"
+    }
+  },
+  "logo": "cozy-logo-name-horizontal-blue.svg",
+  "static": "static"
+}
