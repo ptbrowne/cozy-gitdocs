@@ -1,6 +1,6 @@
-## Hello
+This repository is an experimentation to check if GitDocs would serve Cozy documentation needs.
 
-# coucou
+# Cozy documentation
 
 Welcome to the Cozy Documentation. `INline code`
 
