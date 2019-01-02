@@ -2,6 +2,6 @@ This repository is an experimentation to check if GitDocs would serve Cozy docum
 
 # Cozy documentation
 
-Welcome to the Cozy Documentation. `INline code`
+Welcome to the Cozy Documentation.
 
 [Link](http://cozy.io)
