@@ -1,4 +1,12 @@
-This repository is an experimentation to check if GitDocs would serve Cozy documentation needs.
+---
+items:
+  - path: tutorials
+    title: Tutorials 🚀
+  - path: howTos
+    title: How Tos 📄
+  - path: references
+    title: References 📖
+---
 
 # Cozy documentation
 
