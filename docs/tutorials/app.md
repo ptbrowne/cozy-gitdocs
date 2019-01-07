@@ -1,6 +1,6 @@
 ---
-title: How to create your first Cozy application
-summary: Have your first application ready to be run in a Cozy
+title: Create your first Cozy application
+description: Have your first application ready to be run in a Cozy
 ---
 
 ## Prerequisites

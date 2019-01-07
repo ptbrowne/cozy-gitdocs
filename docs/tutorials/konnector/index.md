@@ -1,6 +1,6 @@
 ---
-title: How to write a connector
-summary: And import data from a service to your Cozy
+title: Develop a connector
+description: Import data from a service to your Cozy
 table_of_contents:
   page: false
 items:

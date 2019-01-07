@@ -1,5 +1,5 @@
 ---
-title: How to use Hot Module Replacement (HMR) with my application?
+title: Use Hot Module Replacement (HMR) to develop your application
 ---
 
 ## What is Hot Module Replacement (HMR) ?

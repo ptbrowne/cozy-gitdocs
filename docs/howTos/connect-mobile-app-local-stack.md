@@ -1,5 +1,5 @@
 ---
-title: How to connect a mobile app to your local stack
+title: Connect a mobile app to your local stack
 ---
 
 Sometimes we need to test a feature on a mobile app by connecting it to our locally installed stack. For this to work, we need to achieve some things.

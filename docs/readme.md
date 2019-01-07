@@ -3,7 +3,7 @@ items:
   - path: tutorials
     title: Tutorials 🚀
   - path: howTos
-    title: How Tos 📄
+    title: How tos 📄
   - path: references
     title: References 📖
 ---

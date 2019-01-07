@@ -1,5 +1,5 @@
 ---
-title: How to create a mobile Cozy application
+title: Create a mobile Cozy application
 ---
 
 The simplest way to create a mobile Cozy application is to use JavaScript as there already are JavaScript libraries to connect to the Cozy server, as known as cozy-stack.
