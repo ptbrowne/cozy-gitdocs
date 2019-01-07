@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "gitdocs": "https://github.com/ptbrowne/gitdocs.git#608fb41"
+  }
+}
