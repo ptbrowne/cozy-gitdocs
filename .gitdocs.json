@@ -3,10 +3,12 @@
   "root": "docs/",
   "palette": {
     "primary": {
+      "darker": "#1e62be",
       "dark": "#0367ee",
       "main": "#297ef2",
       "light": "#86b4f3",
-      "lighter": "#e3eaf2"
+      "lighter": "#e3eaf2",
+      "lightest": "#ECF2FB"
     }
   },
   "logo": "cozy-logo-name-horizontal-blue.svg"
