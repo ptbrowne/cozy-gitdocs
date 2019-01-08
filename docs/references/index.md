@@ -1,3 +1,8 @@
+---
+title: References 📖
+description: In depth documentations for our libraries and tools 
+---
+
 ## References
 
-All references are here !
+Here you'll find in-depth documentations and APIs for our libraries. 

@@ -1,5 +1,6 @@
 ---
-title: Tutorials
+title: Tutorials 🚀
+description: Get started with the Cozy platform
 ---
 
 ## Tutorials

@@ -1,6 +1,6 @@
 ---
-title: How tos
-summary: Bite sized recipes for the Cozy platform
+title: How to's 📄
+description: Bite sized recipes for the Cozy platform
 ---
 
 ## How tos
