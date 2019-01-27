@@ -1,6 +1,7 @@
 {
   "name": "cozy-docs",
   "root": "docs/",
+  "languages": ["yaml", "javascript", "json", "bash", "jsx"],
   "palette": {
     "primary": {
       "darker": "#1e62be",
