@@ -1,0 +1,4 @@
+- Links from a doc to a sibling doc should work, OK ?
+- Links from a README to a sibling doc should work, OK ?
+- Navbar should not go onto content when scrolling
+
